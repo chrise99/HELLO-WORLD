@@ -1,0 +1,22 @@
+# General properties for CRM ETL Jobs
+data_path=XXXPENTAHO_DATA_DIRXXX
+webservice_hostname=XXXWEBSERVICE_HOSTNAMEXXX
+userportal_hostname=XXXUSERPORTAL_HOSTNAMEXXX
+# Mail properties
+mail_user_name=Data Services Team
+mail_send_user=dataservicesteam@motus.com
+mail_user=XXXSMTP_USERNAMEXXX
+mail_server=XXXSMTP_HOSTXXX
+mail_port=XXXSMTP_PORTXXX
+mail_password=XXXSMTP_PASSWORDXXX
+# Job and Step control properties
+job_enabled=No
+# CRSI and CRSINC properties
+company_id=XXX-Company ID goes here-XXX
+client_id=XXX-Client ID goes here-XXX
+# SalesForce properties
+sf_url=https://test.salesforce.com/services/Soap/u/37.0
+sf_user=XXX-SF User-XXX
+sf_password=XXX-SF Password-XXX
+sf_api_token=XXX-API Token-XXX
+sf_api_password=XXX-SF Password SF API Token-XXX
